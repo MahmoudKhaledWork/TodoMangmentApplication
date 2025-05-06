@@ -1,0 +1,42 @@
+﻿@using DAL.Models
+@model Todo
+
+@{
+    ViewData["Title"] = "Edit Todo";
+}
+
+<h2>Edit Todo</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" name="Id" value="@Model.Id" />
+
+    <div class="form-group">
+        <label for="Title">Title</label>
+        <input type="text" class="form-control" id="Title" name="Title" value="@Model.Title" required maxlength="100" />
+    </div>
+
+    <div class="form-group">
+        <label for="Description">Description</label>
+        <textarea class="form-control" id="Description" name="Description">@Model.Description</textarea>
+    </div>
+
+    <div class="form-group">
+        <label for="Status">Status</label>
+        <select class="form-control" asp-for="Status" asp-items="Html.GetEnumSelectList<TodoStatus>()">
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="Priority">Priority</label>
+        <select class="form-control" asp-for="Priority" asp-items="Html.GetEnumSelectList<TodoPriority>()">
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="DueDate">Due Date</label>
+        <input type="date" class="form-control" id="DueDate" name="DueDate" value="@Model.DueDate?.ToString("yyyy-MM-dd")" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+    <a class="btn btn-secondary" href="@Url.Action("Index")">Back to List</a>
+</form>

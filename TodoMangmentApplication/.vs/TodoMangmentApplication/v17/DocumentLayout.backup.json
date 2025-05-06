@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\TodoMangmentApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5247A031-0BFC-496E-BAFC-0502EC9FBE59}|TodoMangmentApplication\\TodoMangmentApplication.csproj|c:\\users\\lenovo\\source\\repos\\todomangmentapplication\\todomangmentapplication\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5247A031-0BFC-496E-BAFC-0502EC9FBE59}|TodoMangmentApplication\\TodoMangmentApplication.csproj|solutionrelative:todomangmentapplication\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5247A031-0BFC-496E-BAFC-0502EC9FBE59}|TodoMangmentApplication\\TodoMangmentApplication.csproj|c:\\users\\lenovo\\source\\repos\\todomangmentapplication\\todomangmentapplication\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5247A031-0BFC-496E-BAFC-0502EC9FBE59}|TodoMangmentApplication\\TodoMangmentApplication.csproj|solutionrelative:todomangmentapplication\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE79EF73-F545-4187-9F07-4C4F2F4E4086}|BLL\\BLL.csproj|c:\\users\\lenovo\\source\\repos\\todomangmentapplication\\bll\\repository\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE79EF73-F545-4187-9F07-4C4F2F4E4086}|BLL\\BLL.csproj|solutionrelative:bll\\repository\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5247A031-0BFC-496E-BAFC-0502EC9FBE59}|TodoMangmentApplication\\TodoMangmentApplication.csproj|c:\\users\\lenovo\\source\\repos\\todomangmentapplication\\todomangmentapplication\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5247A031-0BFC-496E-BAFC-0502EC9FBE59}|TodoMangmentApplication\\TodoMangmentApplication.csproj|solutionrelative:todomangmentapplication\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5247A031-0BFC-496E-BAFC-0502EC9FBE59}|TodoMangmentApplication\\TodoMangmentApplication.csproj|c:\\users\\lenovo\\source\\repos\\todomangmentapplication\\todomangmentapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5247A031-0BFC-496E-BAFC-0502EC9FBE59}|TodoMangmentApplication\\TodoMangmentApplication.csproj|solutionrelative:todomangmentapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5247A031-0BFC-496E-BAFC-0502EC9FBE59}|TodoMangmentApplication\\TodoMangmentApplication.csproj|c:\\users\\lenovo\\source\\repos\\todomangmentapplication\\todomangmentapplication\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5247A031-0BFC-496E-BAFC-0502EC9FBE59}|TodoMangmentApplication\\TodoMangmentApplication.csproj|solutionrelative:todomangmentapplication\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5247A031-0BFC-496E-BAFC-0502EC9FBE59}|TodoMangmentApplication\\TodoMangmentApplication.csproj|c:\\users\\lenovo\\source\\repos\\todomangmentapplication\\todomangmentapplication\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5247A031-0BFC-496E-BAFC-0502EC9FBE59}|TodoMangmentApplication\\TodoMangmentApplication.csproj|solutionrelative:todomangmentapplication\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5247A031-0BFC-496E-BAFC-0502EC9FBE59}|TodoMangmentApplication\\TodoMangmentApplication.csproj|c:\\users\\lenovo\\source\\repos\\todomangmentapplication\\todomangmentapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5247A031-0BFC-496E-BAFC-0502EC9FBE59}|TodoMangmentApplication\\TodoMangmentApplication.csproj|solutionrelative:todomangmentapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 284,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TodoMangmentApplication\\TodoMangmentApplication\\Views\\Todo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TodoMangmentApplication\\Views\\Todo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TodoMangmentApplication\\TodoMangmentApplication\\Views\\Todo\\Edit.cshtml",
+              "RelativeToolTip": "TodoMangmentApplication\\Views\\Todo\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T11:28:09.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TodoMangmentApplication\\TodoMangmentApplication\\Views\\Todo\\Create.cshtml",
+              "RelativeDocumentMoniker": "TodoMangmentApplication\\Views\\Todo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TodoMangmentApplication\\TodoMangmentApplication\\Views\\Todo\\Create.cshtml",
+              "RelativeToolTip": "TodoMangmentApplication\\Views\\Todo\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T11:27:42.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TodoMangmentApplication\\TodoMangmentApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoMangmentApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TodoMangmentApplication\\TodoMangmentApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TodoMangmentApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T11:25:28.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TodoMangmentApplication\\TodoMangmentApplication\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoMangmentApplication\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TodoMangmentApplication\\TodoMangmentApplication\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "TodoMangmentApplication\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T11:25:18.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TodoMangmentApplication\\TodoMangmentApplication\\Program.cs",
+              "RelativeDocumentMoniker": "TodoMangmentApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TodoMangmentApplication\\TodoMangmentApplication\\Program.cs",
+              "RelativeToolTip": "TodoMangmentApplication\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwC8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:23:45.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TodoMangmentApplication\\TodoMangmentApplication\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoMangmentApplication\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TodoMangmentApplication\\TodoMangmentApplication\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoMangmentApplication\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAADgv1IAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:21:43.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TodoMangmentApplication\\TodoMangmentApplication\\Views\\Todo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TodoMangmentApplication\\Views\\Todo\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TodoMangmentApplication\\TodoMangmentApplication\\Views\\Todo\\Delete.cshtml",
+              "RelativeToolTip": "TodoMangmentApplication\\Views\\Todo\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T11:28:19.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\TodoMangmentApplication\\BLL\\Repository\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\Repository\\TodoRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\TodoMangmentApplication\\BLL\\Repository\\TodoRepository.cs",
+              "RelativeToolTip": "BLL\\Repository\\TodoRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:44:41.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
